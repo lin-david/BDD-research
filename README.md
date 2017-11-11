@@ -1,2 +1,2 @@
-# BDD-research
-Berkeley DeepDrive research
+# Lidar-Calibration
+Lidar surface normal code for lidar-camera calibration
